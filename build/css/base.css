@@ -1,0 +1,36 @@
+* {
+    font-family: 'Quicksand', "Times New Roman", "游明朝", YuMincho, "Hiragino Mincho ProN", Meiryo, sans-serif;
+}
+.logo {
+    font-family: 'Niconne', cursive;
+}
+.button-label {
+    font-family: 'Quicksand', "Times New Roman", "游明朝", YuMincho, "Hiragino Mincho ProN", Meiryo, sans-serif !important;
+}
+.btn-primary {
+    background-color: #ff8481 !important;
+    border-color: #ff8481 !important;
+}
+.btn-primary:hover, .btn-primary:disabled, .btn-primary:disabled:hover {
+    background-color: #ffc0c1 !important;
+    border-color: #ffc0c1 !important;
+}
+.panel-info {
+    border-color: #1db1ae !important;
+}
+.panel-heading {
+    background-color: #1db1ae !important;
+    border-color: #1db1ae !important;
+}
+.panel-body {
+    border-color: #1db1ae !important;
+}
+.text-info {
+    color: #1db1ae;
+}
+.panel-title {
+    color: #fff;
+}
+blockquote {
+    border-color: #fff;
+}
